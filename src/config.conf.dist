@@ -1,0 +1,4 @@
+; Modèle de fichier de config :
+; Dupliquer, adapter et renommer ce fichier en config.conf
+
+BASE_PATH = "/path/from/webserver/root"
