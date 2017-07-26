@@ -37,7 +37,7 @@ class FrontController
     $router->addRoutes($routes);
 
     // Initialiser le moteur de templates
-    $templates = ;
+    // $templates = ;
 
     // Il lance le matching du router (renvoie target, params et name)
     // Match current request url
