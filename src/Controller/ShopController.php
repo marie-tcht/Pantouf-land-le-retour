@@ -2,7 +2,9 @@
 
 namespace Shop\Controller;
 
-class ShopController
+use Shop\Framework\Controller;
+
+class ShopController extends Controller
 {
   public function home()
   {

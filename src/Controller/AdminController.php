@@ -2,7 +2,9 @@
 
 namespace Shop\Controller;
 
-class AdminController
+use Shop\Framework\Controller;
+
+class AdminController extends Controller
 {
     public function dashboard()
     {

@@ -2,7 +2,8 @@
     "name": "mint/pantoufland",
     "description": "la boutique de chaussons d'oclock",
     "require": {
-        "altorouter/altorouter": "^1.2"
+        "altorouter/altorouter": "^1.2",
+        "league/plates": "^3.3"
     },
     "autoload": {
       "psr-4": {
